@@ -1,4 +1,4 @@
-The Code of Conduct is based on the [LLVM Community Code of Conduct](https://llvm.org/docs/CodeOfConduct.html#when-we-disagree-try-to-understand-why):
+The Code of Conduct is based on the [LLVM Community Code of Conduct](https://llvm.org/docs/CodeOfConduct.html):
 
 - be friendly and patient,
 - be welcoming,
